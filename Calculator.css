@@ -1,0 +1,112 @@
+body{
+    background-color: blue;
+}
+.tilecontainer{ 
+    box-shadow:0px 3px 6px; 
+  margin-left: 500px; 
+  margin-top: 150px;
+ width : 300px;
+ height : 500px; 
+ background-color:rosybrown;  
+ border-style: groove;
+ border-color: black;
+} 
+#displaybox{ 
+    text-align:center; 
+    height:40px;
+    width:280px; 
+    margin-left:10px; 
+    margin-top:30px; 
+    background-color: whitesmoke; 
+    color:black;
+    font-weight: bold; 
+    border-color: black;
+
+}  
+#demo{
+     font-size:30px;
+}
+button{
+    height:50px;
+    width:50px; 
+    border:none;
+} 
+button:hover{
+    background-color: yellow;
+}
+#b1{
+margin-left:10px;
+margin-top:30px;
+} 
+#b2{
+    margin-left:10px;
+    margin-top:30px;
+    } 
+#b3{
+      margin-left:10px;
+        margin-top:30px;
+    } 
+    #bsum{
+        margin-top:20px;
+        margin-left:30px;
+        background-color:tomato
+    } 
+ #b4{
+        margin-left:10px;
+        margin-top:30px;
+   } 
+ #b5{
+     margin-left:10px;
+        margin-top:30px;
+    } 
+#b6{
+        margin-left:10px;
+         margin-top:30px;
+    } 
+    #bsub{
+        margin-left:30px;
+        margin-top: 20px;
+        background-color:tomato
+    } 
+    #b7{
+        margin-left:10px;
+        margin-top:30px;
+   } 
+ #b8{
+     margin-left:10px;
+        margin-top:30px;
+    } 
+#b9{
+        margin-left:10px;
+         margin-top:30px;
+    } 
+    #bmul{
+        margin-top:20px;
+        margin-left:30px; 
+        background-color:tomato
+    }  
+    #on{
+        margin-left:10px;
+        margin-top:30px; 
+        background-color:turquoise;
+    }
+#b0{
+        margin-left:10px;
+         margin-top:30px; 
+         width:90px;
+    }
+    #bdiv{
+        margin-top:20px;
+        margin-left:55px;
+        background-color:tomato
+    }  
+    #off{ 
+        margin-top: 20px;
+        margin-left: 10px; 
+        width:90px;
+        background-color: turquoise;
+    }
+    #bequal{
+        margin-left:120px;
+        background-color:tomato
+    }  
